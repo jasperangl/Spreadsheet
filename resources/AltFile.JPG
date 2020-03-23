@@ -1,0 +1,26 @@
+A2 =3.5
+B2 WhatsUp
+C2 A2
+E4 =(< A1:A3)
+D2 =(CONCAT A1 B2 C2)
+E2 =(< 4 false)
+A89 "Hello"
+A19 "I am far away"
+AA4 6879
+A5 =A6
+B5 true
+A3 =7.234568305957493
+B3 "\"Hello\""
+A1 5
+E5 =(SUM A1:A6)
+B1 "Hello"
+D3 =(SUM A1:B4)
+C1 =A1
+E3 =(< 1 "Hello")
+D1 =(SUM A1 B1 C2 false)
+E1 (SUM 3 4)
+U3 "I am far away"
+A6 =E5
+B6 =false
+A4 =A2
+B4 3.456
