@@ -1,6 +1,6 @@
 ## Spreadsheet
 
-#This is a spreadsheet similar to simple version of Excel
+This is a spreadsheet similar to simple version of Excel
 
 
 It can:
