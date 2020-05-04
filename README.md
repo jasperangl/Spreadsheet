@@ -16,6 +16,6 @@ How to make it run:
 1. Set-up the project in your favorite IDE
 2. Modify run configurations:
    - Run as Java Application
-   - Main class: edu.cs3500.spreadsheets.BeyondGood
+   - Main class: BeyondGood
    - Program arguments: -in resources/BigVisual.txt -edit (can use different .txt file in resources directory)
  3. Run application
