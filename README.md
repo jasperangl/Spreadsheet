@@ -19,3 +19,7 @@ How to make it run:
    - Main class: BeyondGood
    - Program arguments: -in resources/BigVisual.txt -edit (can use different .txt file in resources directory)
  3. Run application
+
+### Random Presentation Link
+
+https://docs.google.com/presentation/d/1_l0rdJKHU5bXbXTZK_5uzRSq-tgMQzzd1-NhL0AvrYA/edit#slide=id.g27e646b2f70_0_0
